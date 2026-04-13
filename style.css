@@ -114,7 +114,8 @@ width: 500px;
 }
 @media(max-width:600px){
     body{
-        flex-direction: column center;
+        flex-direction: column;
+     align-items: center;
         width: 100%;
     }
 }
