@@ -112,6 +112,26 @@ width: 500px;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+th{
+    color: aliceblue;
+    font-size: xx-large;
+    border: solid rgb(1, 12, 61);
+}
+table{
+background: rgba(0, 0, 0, 0.671);
+border: solid rgb(1, 12, 61);
+border-radius: 10px;
+margin: auto;
+
+}
+td{
+
+    font-size: large;
+    color: rgb(199, 204, 247);
+text-align: center;
+border: solid rgb(1, 12, 61);
+}
+
 @media(max-width:600px){
     div{
         display: flex;
